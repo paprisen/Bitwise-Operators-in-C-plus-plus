@@ -28,3 +28,16 @@ int main()
     cout << "rightshift b: " << right_shift_b << endl;
     return 0;
 }
+
+/*
+output:
+AND: 12
+OR: 15
+NOT a: -14
+NOT b: -15
+XOR: 3
+leftshift a: 26
+leftshift b: 56
+rightshift a: 3
+rightshift b: 3
+*/
