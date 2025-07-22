@@ -21,3 +21,11 @@ int main() {
     cout<<"rest bit "<<reset<<endl;
     return 0;
 }
+
+/*
+output:
+Enter the bit to be set: 8
+Enter the bit to be reset: 4
+set bit 486
+rest bit 230
+*/
